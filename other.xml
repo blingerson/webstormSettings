@@ -1,0 +1,8 @@
+<application>
+  <component name="BuiltInServerOptions" builtInServerPort="8085" />
+  <component name="NodeJsLocalInterpreters">
+    <local-interpreter path="$USER_HOME$/.nvm/versions/node/v9.11.1/bin/node">
+      <version-cache version="9.11.1" last-modified="1522902763000" />
+    </local-interpreter>
+  </component>
+</application>
